@@ -6,7 +6,7 @@ import retrofit2.Call;
 import retrofit2.http.GET;
 
 /**
- * Created by sjha3 on 7/31/17.
+ * Created by rashmi on 7/31/17.
  */
 
 public interface NetworkInterfaceRetro {

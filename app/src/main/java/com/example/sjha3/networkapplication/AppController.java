@@ -1,7 +1,7 @@
 package com.example.sjha3.networkapplication;
 
 /**
- * Created by sjha3 on 7/31/17.
+ * Created by rashmi on 7/31/17.
  */
 
 import android.app.Application;
@@ -15,7 +15,7 @@ import com.android.volley.toolbox.Volley;
 
 
 /**
- * Created by syed on 27/7/17.
+ * Created by rashmi on 27/7/17.
  */
 
 public class AppController extends Application {

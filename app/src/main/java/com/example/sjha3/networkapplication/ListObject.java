@@ -3,7 +3,7 @@ package com.example.sjha3.networkapplication;
 import com.google.gson.annotations.SerializedName;
 
 /**
- * Created by sjha3 on 7/31/17.
+ * Created by rashmi on 7/31/17.
  */
 
 public class ListObject {
